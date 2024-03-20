@@ -1,0 +1,16 @@
+{
+  "name": "selfish-war-tie-1oo1c",
+  "productName": "selfish-war-tie-1oo1c",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "kaish",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "28.2.0"
+  }
+}
